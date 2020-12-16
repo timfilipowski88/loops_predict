@@ -8,6 +8,8 @@ The code will execute and print 0 to 14.
 Predict #2
 The console will print 3, 6, & 9.
 
+^^^ I ran the code and forgot to check with a t chart to see if i would equal 6. I would've found it doesn't! 
+
 Predict #3
 Console Log will print:
 Line    Value

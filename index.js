@@ -1,8 +1,3 @@
-for (var name = 5; name <=10; name++) {
-    console.log(name);
-}
-
-
 // Predict 1
 for(var num = 0; num < 15; num++){
     console.log(num);
